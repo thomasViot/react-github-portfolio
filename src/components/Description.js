@@ -29,7 +29,7 @@ const Description = () => {
         </div>
 
         <div className='pictures'>
-            <img src={ProfileImage} alt="profile" className='firstPlanImage'></img>
+            <img className='firstPlanImage' src={ProfileImage} alt="profile" ></img>
         </div>
           
         
