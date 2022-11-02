@@ -11,7 +11,7 @@ const Experience = () => {
         <VerticalTimeline linecolor="white">
             <VerticalTimelineElement className="vertical-timeline-element--education" 
             contentStyle={{color: '#ffffff'}}
-            date="2018 - 2020"
+            date="2015 - 2018"
             iconStyle={{background: "black", color: "#fff"}}
             >
                 <h3 className='vertical-timeline-element-title' style={{color:"black"}}>Higth School, Perpignan, France</h3>
@@ -20,7 +20,7 @@ const Experience = () => {
 
             <VerticalTimelineElement className="vertical-timeline-element--education" 
             contentStyle={{color: '#ffffff'}}
-            date="2015 - 2018"
+            date="2018 - 2020"
             iconStyle={{background: "white", color: "#fff"}}
             >
                 <h3 className='vertical-timeline-element-title' style={{color:"black"}}>Prépa des INP, Toulouse, France</h3>
