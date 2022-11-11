@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/react-github-portfolio/static/css/main.182b4f17.css",
-    "main.js": "/react-github-portfolio/static/js/main.eeebc78c.js",
+    "main.css": "/react-github-portfolio/static/css/main.1f031c17.css",
+    "main.js": "/react-github-portfolio/static/js/main.17b835a9.js",
     "static/media/moi.jpg": "/react-github-portfolio/static/media/moi.cfc09dfbe30d7ef5910b.jpg",
+    "static/media/bg7.jpg": "/react-github-portfolio/static/media/bg7.8d258e1401484369a299.jpg",
     "static/media/projet1.png": "/react-github-portfolio/static/media/projet1.7f6976c3458c41f4022c.png",
     "static/media/casino.png": "/react-github-portfolio/static/media/casino.8798af6e29d68a10c97c.png",
+    "static/media/bg6.jpg": "/react-github-portfolio/static/media/bg6.107e99f730850cf76f7d.jpg",
+    "static/media/bg3.jpg": "/react-github-portfolio/static/media/bg3.375d449c2c86b4ceddab.jpg",
+    "static/media/bg8.jpg": "/react-github-portfolio/static/media/bg8.a5d84470fed8acc64c89.jpg",
     "static/media/tinder.png": "/react-github-portfolio/static/media/tinder.d89eb462ce99e78dc73c.png",
     "static/media/question.png": "/react-github-portfolio/static/media/question.baaeee9ba2dcdced5e95.png",
     "index.html": "/react-github-portfolio/index.html",
-    "main.182b4f17.css.map": "/react-github-portfolio/static/css/main.182b4f17.css.map",
-    "main.eeebc78c.js.map": "/react-github-portfolio/static/js/main.eeebc78c.js.map"
+    "main.1f031c17.css.map": "/react-github-portfolio/static/css/main.1f031c17.css.map",
+    "main.17b835a9.js.map": "/react-github-portfolio/static/js/main.17b835a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.182b4f17.css",
-    "static/js/main.eeebc78c.js"
+    "static/css/main.1f031c17.css",
+    "static/js/main.17b835a9.js"
   ]
 }
