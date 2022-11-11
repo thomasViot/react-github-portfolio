@@ -19,3 +19,31 @@ h1, h2, h3, h4, p, a{
 ul{
   list-style-type: none;
 }
+
+.home{
+  background-image: url("./assets/bg3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.project-container{
+  background-image: url("./assets/bg6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.studies-container{
+  height: 100vh;
+  background-image: url("./assets/bg8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-container{
+  height: 100vh;
+  background-image: url("./assets/bg7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -4,7 +4,7 @@ import ProjectComponent from '../components/ProjectComponent'
 
 const Projects = () => {
   return (
-    <div>
+    <div className='project-container'>
       <Navbar />
       <ProjectComponent></ProjectComponent>
     </div>

@@ -12,10 +12,10 @@ const Experience = () => {
             <VerticalTimelineElement className="vertical-timeline-element--education" 
             contentStyle={{color: '#ffffff'}}
             date="2015 - 2018"
-            iconStyle={{background: "black", color: "#fff"}}
+            iconStyle={{background: "white", color: "#fff"}}
             >
                 <h3 className='vertical-timeline-element-title' style={{color:"black"}}>Higth School, Perpignan, France</h3>
-                <p style={{color:"black"}}>High School Diploma with higth honors</p>
+                <p style={{color:"white"}}>High School Diploma with higth honors</p>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement className="vertical-timeline-element--education" 
@@ -30,7 +30,7 @@ const Experience = () => {
             <VerticalTimelineElement className="vertical-timeline-element--education" 
             contentStyle={{color: '#ffffff'}}
             date="2020 - 2023"
-            iconStyle={{background: "black", color: "#fff"}}
+            iconStyle={{background: "white", color: "#fff"}}
             >
                 <h3 className='vertical-timeline-element-title' style={{color:"black"}}>ENSEIRB-MATMECA, Toulouse, France</h3>
                 <p style={{color:"black"}}>French engineering schools: Telecommunication master - software engineering specialty</p>

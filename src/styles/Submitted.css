@@ -1,0 +1,18 @@
+.container-sub{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20rem;
+}
+
+
+.button-sub{
+    margin-top: 2rem;
+    transition: 0.3s;
+    animation: ease-in-out;
+}
+
+.button-sub:hover{
+    color: bisque;
+}

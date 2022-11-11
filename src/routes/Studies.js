@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar'
 
 const Studies = () => {
   return (
-    <div>
+    <div className='studies-container'>
       <Navbar />
       <Experience />
     </div>

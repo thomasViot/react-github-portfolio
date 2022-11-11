@@ -19,6 +19,5 @@ form input, form textarea{
     color: #f4f4f4;
 }
 
-input:invalid {
-    box-shadow: 0 0 5px 1px red;
-}
+
+
