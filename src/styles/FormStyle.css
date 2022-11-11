@@ -18,3 +18,7 @@ form input, form textarea{
     border-color: rgba(255, 255, 255, 0.1);
     color: #f4f4f4;
 }
+
+input:invalid {
+    box-shadow: 0 0 5px 1px red;
+}

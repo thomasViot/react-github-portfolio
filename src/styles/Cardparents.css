@@ -1,0 +1,15 @@
+.cards{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+
+.titlePage{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

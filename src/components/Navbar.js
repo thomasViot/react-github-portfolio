@@ -29,6 +29,7 @@ const Navbar = () => {
                 <Link to="/react-github-portfolio/Contact">Contact</Link>
             </li>
         </ul>
+        
         <div className="humburger" onClick={handleClick}>
                 {click ? (<FaTimes size={20} style={{color: "#fff"}} />) : (<FaBars size={20} style={{color: "#fff"}} />)}
         </div>

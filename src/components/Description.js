@@ -4,14 +4,17 @@ import "../styles/DescriptionStyle.css"
 import {Link} from "react-router-dom";
 
 const Description = () => {
+
+  
   return (
     <div className='description'>
 
         <div className='text-zone'>
             <div className='text-zone-wrapper'>
               <h2 className='intro'>Hello, My name is</h2>
+              
               <h1 className='name'>Thomas Viot</h1>
-
+              
               <div className='title'>
                 <div className='title-wrapper'>
                   <div className='title-item'>Student at ENSEIRB-MATMECA</div>
@@ -28,9 +31,12 @@ const Description = () => {
             </div>
         </div>
 
-        <div className='pictures'>
-            <img className='firstPlanImage' src={ProfileImage} alt="profile" ></img>
-        </div>
+        
+          <div className='pictures'>
+              <img className='firstPlanImage' src={ProfileImage} alt="profile" ></img>
+          </div>
+        
+        
           
         
         
