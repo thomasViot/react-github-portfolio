@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-github-portfolio/static/css/main.1f031c17.css",
-    "main.js": "/react-github-portfolio/static/js/main.17b835a9.js",
+    "main.css": "/react-github-portfolio/static/css/main.3570904d.css",
+    "main.js": "/react-github-portfolio/static/js/main.d128d282.js",
     "static/media/moi.jpg": "/react-github-portfolio/static/media/moi.cfc09dfbe30d7ef5910b.jpg",
     "static/media/bg7.jpg": "/react-github-portfolio/static/media/bg7.8d258e1401484369a299.jpg",
     "static/media/projet1.png": "/react-github-portfolio/static/media/projet1.7f6976c3458c41f4022c.png",
@@ -12,11 +12,11 @@
     "static/media/tinder.png": "/react-github-portfolio/static/media/tinder.d89eb462ce99e78dc73c.png",
     "static/media/question.png": "/react-github-portfolio/static/media/question.baaeee9ba2dcdced5e95.png",
     "index.html": "/react-github-portfolio/index.html",
-    "main.1f031c17.css.map": "/react-github-portfolio/static/css/main.1f031c17.css.map",
-    "main.17b835a9.js.map": "/react-github-portfolio/static/js/main.17b835a9.js.map"
+    "main.3570904d.css.map": "/react-github-portfolio/static/css/main.3570904d.css.map",
+    "main.d128d282.js.map": "/react-github-portfolio/static/js/main.d128d282.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f031c17.css",
-    "static/js/main.17b835a9.js"
+    "static/css/main.3570904d.css",
+    "static/js/main.d128d282.js"
   ]
 }
