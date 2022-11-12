@@ -19,8 +19,8 @@ const ProjectComponent = () => {
         </div>
 
         <div className='cards'>   
-            <CardComponent title="Quizz APP" image={Question} body="Development of a quizz app with flutter and dart"></CardComponent> 
-            <CardComponent title="Reddit clone" image={Reddit} body="Reddit clone with server side with NodeJs"></CardComponent>
+            <CardComponent title="Quizz APP" image={Question} body="Development of a quiz app with flutter and dart"></CardComponent> 
+            <CardComponent title="Reddit clone" image={Reddit} body="Reddit clone with server-side with NodeJs"></CardComponent>
             <CardComponent title="Casino website" image={Casino} body="Creation of a casino with cryptocurrencies"></CardComponent> 
         </div>
         

@@ -15,7 +15,7 @@ const Experience = () => {
             iconStyle={{background: "white", color: "#fff"}}
             >
                 <h3 className='vertical-timeline-element-title' style={{color:"black"}}>Higth School, Perpignan, France</h3>
-                <p style={{color:"white"}}>High School Diploma with higth honors</p>
+                <p style={{color:"black"}}>High School Diploma with high honors</p>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement className="vertical-timeline-element--education" 
@@ -24,7 +24,7 @@ const Experience = () => {
             iconStyle={{background: "white", color: "#fff"}}
             >
                 <h3 className='vertical-timeline-element-title' style={{color:"black"}}>Prépa des INP, Toulouse, France</h3>
-                <p style={{color:"black"}}>2 years of intensive maths and physics lectures for preparing French engineering schools</p>
+                <p style={{color:"black"}}>2-years of intensive maths and physics lectures for preparing French engineering schools</p>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement className="vertical-timeline-element--education" 

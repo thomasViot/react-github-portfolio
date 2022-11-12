@@ -1,6 +1,7 @@
 label{
     color: white;
     margin-bottom: 0.5rem;
+    font-weight: bold;
 }
 
 form{
@@ -14,9 +15,10 @@ form{
 form input, form textarea{
     margin-bottom: 1rem;
     padding: 10px 18px;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.4);
+    border-color: rgba(255, 255, 255, 100);
     color: #f4f4f4;
+    font-weight: bold;
 }
 
 
