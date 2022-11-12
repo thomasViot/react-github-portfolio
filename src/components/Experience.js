@@ -14,7 +14,7 @@ const Experience = () => {
             date="2015 - 2018"
             iconStyle={{background: "white", color: "#fff"}}
             >
-                <h3 className='vertical-timeline-element-title' style={{color:"black"}}>Higth School, Perpignan, France</h3>
+                <h3 className='vertical-timeline-element-title' style={{color:"black"}}>High School, Perpignan, France</h3>
                 <p style={{color:"black"}}>High School Diploma with high honors</p>
             </VerticalTimelineElement>
 
@@ -32,7 +32,7 @@ const Experience = () => {
             date="2020 - 2023"
             iconStyle={{background: "white", color: "#fff"}}
             >
-                <h3 className='vertical-timeline-element-title' style={{color:"black"}}>ENSEIRB-MATMECA, Toulouse, France</h3>
+                <h3 className='vertical-timeline-element-title' style={{color:"black"}}>ENSEIRB-MATMECA, Bordeaux, France</h3>
                 <p style={{color:"black"}}>French engineering schools: Telecommunication master - software engineering specialty</p>
             </VerticalTimelineElement>
         </VerticalTimeline>
