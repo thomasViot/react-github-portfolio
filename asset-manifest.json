@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/react-github-portfolio/static/css/main.3570904d.css",
-    "main.js": "/react-github-portfolio/static/js/main.1819c15d.js",
-    "static/media/moi.png": "/react-github-portfolio/static/media/moi.07a3d04ed0415dc760f5.png",
-    "static/media/bg7.jpg": "/react-github-portfolio/static/media/bg7.8d258e1401484369a299.jpg",
+    "main.css": "/react-github-portfolio/static/css/main.1fa38c9c.css",
+    "main.js": "/react-github-portfolio/static/js/main.0ad5679c.js",
     "static/media/projet1.png": "/react-github-portfolio/static/media/projet1.7f6976c3458c41f4022c.png",
     "static/media/casino.png": "/react-github-portfolio/static/media/casino.8798af6e29d68a10c97c.png",
-    "static/media/bg6.jpg": "/react-github-portfolio/static/media/bg6.107e99f730850cf76f7d.jpg",
-    "static/media/bg3.jpg": "/react-github-portfolio/static/media/bg3.375d449c2c86b4ceddab.jpg",
+    "static/media/robot.png": "/react-github-portfolio/static/media/robot.99d243ce52f6b424b58c.png",
+    "static/media/bg3.jpg": "/react-github-portfolio/static/media/bg3.e9eb1f10da48439d6baa.jpg",
+    "static/media/bg7.jpg": "/react-github-portfolio/static/media/bg7.3cd7e00915c987dedc5b.jpg",
     "static/media/bg8.jpg": "/react-github-portfolio/static/media/bg8.a5d84470fed8acc64c89.jpg",
+    "static/media/moi.png": "/react-github-portfolio/static/media/moi.1aefba09d9bdc1ca2ef3.png",
+    "static/media/bg6.jpg": "/react-github-portfolio/static/media/bg6.3e6992cee539791e2386.jpg",
     "static/media/tinder.png": "/react-github-portfolio/static/media/tinder.d89eb462ce99e78dc73c.png",
     "static/media/question.png": "/react-github-portfolio/static/media/question.baaeee9ba2dcdced5e95.png",
     "index.html": "/react-github-portfolio/index.html",
-    "main.3570904d.css.map": "/react-github-portfolio/static/css/main.3570904d.css.map",
-    "main.1819c15d.js.map": "/react-github-portfolio/static/js/main.1819c15d.js.map"
+    "main.1fa38c9c.css.map": "/react-github-portfolio/static/css/main.1fa38c9c.css.map",
+    "main.0ad5679c.js.map": "/react-github-portfolio/static/js/main.0ad5679c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3570904d.css",
-    "static/js/main.1819c15d.js"
+    "static/css/main.1fa38c9c.css",
+    "static/js/main.0ad5679c.js"
   ]
 }
