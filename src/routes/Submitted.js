@@ -7,11 +7,13 @@ export class Submitted extends Component {
 
   render() {
     return (
-        <div className='container-sub'>
-            <h1>Thank you, response sent !</h1>
-            <Link to="/react-github-portfolio" className='button-sub'>Close</Link>
-        </div>
-    )
+      <div className="container-sub">
+        <h1>Thank you, request sent !</h1>
+        <Link to="/react-github-portfolio" className="button-sub">
+          Close
+        </Link>
+      </div>
+    );
   }
 }
 

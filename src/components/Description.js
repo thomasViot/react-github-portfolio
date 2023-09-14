@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfileImage from "../assets/moi.jpg"
+import ProfileImage from "../assets/moi.png";
 import "../styles/DescriptionStyle.css"
 import {Link} from "react-router-dom";
 
