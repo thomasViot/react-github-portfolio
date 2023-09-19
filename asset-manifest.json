@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-github-portfolio/static/css/main.1fa38c9c.css",
-    "main.js": "/react-github-portfolio/static/js/main.87768c2d.js",
+    "main.js": "/react-github-portfolio/static/js/main.92a0e9c4.js",
     "static/media/casino.png": "/react-github-portfolio/static/media/casino.8798af6e29d68a10c97c.png",
     "static/media/robot.png": "/react-github-portfolio/static/media/robot.99d243ce52f6b424b58c.png",
     "static/media/bg3.jpg": "/react-github-portfolio/static/media/bg3.e9eb1f10da48439d6baa.jpg",
     "static/media/bg7.jpg": "/react-github-portfolio/static/media/bg7.3cd7e00915c987dedc5b.jpg",
     "static/media/bg8.jpg": "/react-github-portfolio/static/media/bg8.a5d84470fed8acc64c89.jpg",
+    "static/media/serviprog.png": "/react-github-portfolio/static/media/serviprog.26532cc0101897b69c2d.png",
     "static/media/moi.png": "/react-github-portfolio/static/media/moi.1aefba09d9bdc1ca2ef3.png",
     "static/media/bg6.jpg": "/react-github-portfolio/static/media/bg6.3e6992cee539791e2386.jpg",
     "static/media/tinder.png": "/react-github-portfolio/static/media/tinder.d89eb462ce99e78dc73c.png",
-    "static/media/leaf.png": "/react-github-portfolio/static/media/leaf.102426eadceb940ce7ed.png",
     "index.html": "/react-github-portfolio/index.html",
     "main.1fa38c9c.css.map": "/react-github-portfolio/static/css/main.1fa38c9c.css.map",
-    "main.87768c2d.js.map": "/react-github-portfolio/static/js/main.87768c2d.js.map"
+    "main.92a0e9c4.js.map": "/react-github-portfolio/static/js/main.92a0e9c4.js.map"
   },
   "entrypoints": [
     "static/css/main.1fa38c9c.css",
-    "static/js/main.87768c2d.js"
+    "static/js/main.92a0e9c4.js"
   ]
 }
