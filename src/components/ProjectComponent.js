@@ -3,7 +3,7 @@ import CardComponent from './CardComponent'
 import ProfileImage from "../assets/moi.png";
 import Project1 from "../assets/logo-1001tr.png";
 import Tinder from "../assets/tinder.png";
-import Question from "../assets/leaf.png";
+import Question from "../assets/serviprog.png";
 import Casino from "../assets/casino.png";
 import Robot from "../assets/robot.png";
 import "../styles/Cardparents.css";
@@ -41,9 +41,9 @@ const ProjectComponent = () => {
       <div className="cards">
         <a href="https://digitali.vercel.app/">
           <CardComponent
-            title="Digitali website"
+            title="ServiProg website"
             image={Question}
-            body="Development of a website for Digitali company"
+            body="Development of a website for ServiProg company"
           ></CardComponent>
         </a>
 
