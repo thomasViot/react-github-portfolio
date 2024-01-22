@@ -1,11 +1,11 @@
 import React from 'react'
-import CardComponent from './CardComponent'
-import ProfileImage from "../assets/moi.png";
+import CardComponent from "./CardComponent";
 import Project1 from "../assets/logo-1001tr.png";
 import Tinder from "../assets/tinder.png";
 import Question from "../assets/serviprog.png";
 import Casino from "../assets/casino.png";
 import Robot from "../assets/robot.png";
+import NTV from "../assets/logo.jpg";
 import "../styles/Cardparents.css";
 
 const ProjectComponent = () => {
@@ -15,6 +15,13 @@ const ProjectComponent = () => {
         Here are some projects that I made during my studies
       </h2>
       <div className="cards">
+        <a href="https://lantv.fr/">
+          <CardComponent
+            title="LA NTV TRAINING CENTER"
+            image={NTV}
+            body="Creation of an E-commerce website"
+          ></CardComponent>
+        </a>
         <a href="https://madebyme.app/">
           <CardComponent
             title="MadeByMe website"
@@ -29,13 +36,6 @@ const ProjectComponent = () => {
             body="Creation of a website using Next.js for a company"
           ></CardComponent>
         </a>
-        <a href="https://thomasviot.github.io/react-github-portfolio">
-          <CardComponent
-            title="Personnal Portfolio"
-            image={ProfileImage}
-            body="Creation of a portfolio with React framework"
-          ></CardComponent>
-        </a>
       </div>
 
       <div className="cards">
@@ -46,16 +46,15 @@ const ProjectComponent = () => {
             body="Development of a website for ServiProg company"
           ></CardComponent>
         </a>
-
         <CardComponent
           title="Casino website"
           image={Casino}
-          body="Creation of a casino with cryptocurrencies"
+          body="School project: Creation of a casino with cryptocurrencies"
         ></CardComponent>
         <CardComponent
           title="Tinder clone APP"
           image={Tinder}
-          body="Clone of the Tinder app with react native"
+          body="School project: Clone of the Tinder app with react native"
         ></CardComponent>
       </div>
     </div>
