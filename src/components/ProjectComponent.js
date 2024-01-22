@@ -11,9 +11,7 @@ import "../styles/Cardparents.css";
 const ProjectComponent = () => {
   return (
     <div>
-      <h2 className="titlePage">
-        Here are some projects that I made during my studies
-      </h2>
+      <h2 className="titlePage">Here are some projects that I made</h2>
       <div className="cards">
         <a href="https://lantv.fr/">
           <CardComponent
